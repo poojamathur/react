@@ -1,0 +1,6 @@
+/nbproject/private/
+
+# add anything to be excluded from commit here 
+
+node_modules/
+nbproject/
